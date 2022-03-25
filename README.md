@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🐣
+
+- 🌻 Chloé TEMPO
+- 🎓 Data Science and Artificial Intelligence Engineering student at [ESILV](https://www.esilv.fr/)
+- 🎈 Dynamic, hard-worker and full of fun
 
 <!--
 **chlotmpo/chlotmpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

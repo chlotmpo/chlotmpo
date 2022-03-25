@@ -1,4 +1,4 @@
-### Hi there 🐣
+### Hi there 👋
 
 - 🌻 Chloé TEMPO
 - 🎓 Data Science and Artificial Intelligence Engineering student at [ESILV](https://www.esilv.fr/)
